@@ -25,9 +25,9 @@
   <img src="https://img.shields.io/badge/-Vault-000000?style=flat&logo=HashiCorp&logoColor=white" />
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
