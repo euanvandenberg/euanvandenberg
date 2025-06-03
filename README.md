@@ -95,7 +95,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **huniqe.com**
 - 🌱 I’m currently learning **LLM fine-tuning and RAG pipelines with vector databases**
 - 👯 I’m looking to collaborate on **AI-driven startups, LLM-powered apps, or anything combining innovation and impact**
 - 💬 Ask me about **SRE, DevOps, Kubernetes, Terraform, CI/CD, IaC, MLOps, LLMOps**
