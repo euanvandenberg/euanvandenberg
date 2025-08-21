@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Euan</h1>
-<h3 align="center">A Cloud Engineer with a focus on MLOps</h3>
+<h1 align="center">Hi 👋🏻, I'm Euan</h1>
+<h3 align="center">A Cloud Engineer with a focus on AI and MLOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Cloud+Engineering;MLOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Cloud+Engineering;AI;MLOps" />
 </p>
 
 ---
@@ -18,6 +18,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-466bb0?logo=istio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white" />
@@ -25,8 +26,6 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Vault-000000?style=flat&logo=HashiCorp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -119,3 +118,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
+
