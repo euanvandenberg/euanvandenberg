@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm Euan</h1>
-<h3 align="center">A SRE/DevOps Engineer with a background in Fullstack Engineering</h3>
+<h3 align="center">A SRE/DevOps Engineer with a background in Full-Stack Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=SRE;DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=SRE;DevOps;Full-Stack Engineering;" />
 </p>
 
 ---
@@ -16,14 +16,6 @@
 ## 🔧 Tech Stack
 
 <p align="left">
-  <!-- AI / MLOps -->
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubeflow-326CE5?style=flat&logo=kubeflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
-
   <!-- Cloud & DevOps / SRE -->
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Istio-466bb0?style=flat&logo=istio&logoColor=white" />
