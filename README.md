@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm Euan</h1>
-<h3 align="center">A Cloud Engineer with a focus on AI and MLOps</h3>
+<h3 align="center">A SRE/DevOps Engineer with a background in Fullstack Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Cloud+Engineering;AI;MLOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=SRE;DevOps" />
 </p>
 
 ---
