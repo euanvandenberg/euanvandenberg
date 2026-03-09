@@ -91,7 +91,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **huniqe.com**
+- 🔭 I’m currently working on a React/TypeScript content feed web app
 - 🌱 I’m currently learning **LLM fine-tuning, RAG pipelines with vector databases, and advanced MLOps tooling (Kubeflow, MLflow, Argo Workflows)**
 - 👯 I’m looking to collaborate on **AI-driven startups, LLMOps platforms, MLOps infrastructure, or projects combining cloud-native engineering with applied AI**
 - 💬 Ask me about **MLOps, LLMOps, Kubernetes, Istio, Terraform, GitOps (ArgoCD/Helm), CI/CD, SRE, Cloud Infrastructure (AWS/GCP), Observability (Prometheus/Grafana), AI/ML systems**
