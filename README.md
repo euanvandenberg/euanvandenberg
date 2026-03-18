@@ -19,7 +19,6 @@
   <!-- Cloud & DevOps / SRE -->
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Istio-466bb0?style=flat&logo=istio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
