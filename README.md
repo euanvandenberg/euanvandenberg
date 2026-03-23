@@ -93,7 +93,7 @@
 - 👯 I’m looking to collaborate on **AI-driven startups, LLMOps platforms, MLOps infrastructure, or projects combining cloud-native engineering with applied AI**
 - 💬 Ask me about **MLOps, LLMOps, Kubernetes, Istio, Terraform, GitOps (ArgoCD/Helm), CI/CD, SRE, Cloud Infrastructure (AWS/GCP), Observability (Prometheus/Grafana), AI/ML systems**
 - 📫 How to reach me: **hello@euanvandenberg.com**
-- ⚡ Fun fact: **“My side project once built its own neural net… unintentionally.”**
+- ⚡ Fun fact: **“My side project once built its own neural net…unintentionally.”**
 
 ---
 
