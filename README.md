@@ -16,7 +16,7 @@
 ## 🔧 Tech Stack
 
 <p align="left">
-  <!-- Cloud & DevOps / SRE  -->
+  <!-- Cloud & DevOps / SRE -->
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Istio-466bb0?style=flat&logo=istio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white" />
