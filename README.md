@@ -1,41 +1,56 @@
 <h1 align="center">Hi 👋🏻, I'm Euan</h1>
-<h3 align="center">A SRE with a background in Full-Stack Engineering</h3>
+<h3 align="center">Senior SRE with a background in full-stack engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=SRE;DevOps;Full-Stack;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=SRE;DevOps;Platform+Engineering;Full-Stack+Engineering;Kubernetes;Google+Cloud+Platform" />
 </p>
-<p align="left">
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=euanvandenberg&label=Profile+Views&color=0e75b6&style=flat" alt="euanvandenberg" />
 </p>
+
+---
 
 ## 🔧 Tech Stack
 
 <p align="left">
-  <!-- Cloud & DevOps / SRE -->
+  <!-- Cloud / Platform / SRE -->
+  <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GKE-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud_Run-4285F4?style=flat&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Istio-466bb0?style=flat&logo=istio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vault-000000?style=flat&logo=HashiCorp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vault-000000?style=flat&logo=vault&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white" />
 
-  <!-- Programming Frameworks / Languages -->
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <!-- CI/CD / Automation -->
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Harness-00AEEF?style=flat&logo=harness&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white" />
+
+  <!-- API / Security / Governance -->
+  <img src="https://img.shields.io/badge/-Apigee-FF6D00?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ServiceNow-81B5A1?style=flat&logo=servicenow&logoColor=white" />
+
+  <!-- Full-Stack Engineering -->
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 
-  <!-- Databases / Storage -->
+  <!-- Testing / Databases -->
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -43,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=euanvandenberg&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=euanvandenberg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Euan's GitHub stats" />
 </p>
 
 ---
@@ -51,7 +66,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euanvandenberg&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=euanvandenberg&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -59,7 +74,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=euanvandenberg&theme=algolia&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=euanvandenberg&theme=algolia&row=2&column=4&no-frame=true" alt="GitHub trophies" />
 </p>
 
 ---
@@ -67,45 +82,34 @@
 ## 📅 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euanvandenberg&theme=tokyo-night" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euanvandenberg&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a React/TypeScript content feed web app
-- 🌱 I’m currently learning **LLM fine-tuning, RAG pipelines with vector databases, and advanced MLOps tooling (Kubeflow, MLflow, Argo Workflows)**
-- 👯 I’m looking to collaborate on **AI-driven startups, LLMOps platforms, MLOps infrastructure, or projects combining cloud-native engineering with applied AI**
-- 💬 Ask me about **MLOps, LLMOps, Kubernetes, Istio, Terraform, GitOps (ArgoCD/Helm), CI/CD, SRE, Cloud Infrastructure (AWS/GCP), Observability (Prometheus/Grafana), AI/ML systems**
-- 📫 How to reach me: **hello@euanvandenberg.com**
-- ⚡ Fun fact: **“My side project once built its own neural net…unintentionally.”**
+- 🔭 Senior SRE focused on cloud platforms, Kubernetes, reliability and automation
+- 🛠️ Experienced in GCP, GKE, Istio, Terraform, CI/CD, observability and production governance
+- 👥 Background in full-stack engineering with React, TypeScript, Java, Spring and SQL
+- 📈 Interested in platform engineering, SRE practices, developer enablement and scalable cloud infrastructure
+- 📫 How to reach me: **euan.vandenberg@pm.me**
 
 ---
 
 ## 📫 Connect
 
 <p align="left">
-  <a href="https://euanvandenberg.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" />
+  <a href="mailto:euan.vandenberg@pm.me">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:hello@euanvandenberg.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/euanvandenberg"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/euanvandenberg">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
-
-
-
