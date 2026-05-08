@@ -7,12 +7,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=euanvandenberg&label=Profile+Views&color=0e75b6&style=flat" alt="euanvandenberg" />
-</p>
-
----
-
 ## 🔧 Tech Stack
 
 <p align="left">
@@ -27,7 +21,6 @@
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white" />
 
   <!-- Programming Frameworks / Languages -->
