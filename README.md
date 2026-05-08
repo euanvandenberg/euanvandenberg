@@ -4,11 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=SRE;DevOps;Full-Stack;" />
 </p>
----
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=euanvandenberg&label=Profile+Views&color=0e75b6&style=flat" alt="euanvandenberg" />
 </p>
----
 
 ## 🔧 Tech Stack
 
