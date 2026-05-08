@@ -63,14 +63,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=euanvandenberg&theme=algolia&row=2&column=4&no-frame=true" alt="GitHub trophies" />
-</p>
-
----
-
 ## 📅 GitHub Activity Graph
 
 <p align="center">
