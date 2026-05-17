@@ -14,7 +14,7 @@
 ## 🔧 Tech Stack
 
 <p align="left">
-  <!-- Cloud / Platform / SRE -->
+  <!-- Cloud / Platform / SRE  -->
   <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-GKE-4285F4?style=flat&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cloud_Run-4285F4?style=flat&logo=google-cloud&logoColor=white" />
